@@ -1,0 +1,9 @@
+autopep8
+langchain
+python-dotenv
+gunicorn
+uvicorn
+openai
+unstructured
+supabase
+pinecone-client[grpc]
